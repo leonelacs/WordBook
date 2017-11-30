@@ -1,0 +1,32 @@
+docs/
+	COPYING
+	CREDITS
+	FAQ.md
+	HISTORY
+	INSTALL.md
+	MANIFEST
+	NEWS
+	TAGS
+src/	
+	WordBook/
+		Properties/
+			AssemblyInfo.cs
+			Resources.Designer.cs
+			Resources.resx
+			Settings.Designer.cs
+			Settings.settings
+		App.config
+		Form.Designer.cs
+		Form.cs
+		Form.resx
+		Libs.cs
+		Program.cs
+		WordBook.csproj
+		icon.ico
+		library.wbf
+		statue.wbi
+.gitattributes
+.gitignore
+LICENSE
+LeonelACS_WordBook.sln
+README.md
