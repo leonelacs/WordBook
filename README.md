@@ -1,2 +1,2 @@
 # WordBook
-A English-Chinese wordbook based on WinForm C#
+A English-Chinese wordbook based on WinForms C#
